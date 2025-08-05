@@ -1,0 +1,7 @@
+{
+  "name": "moontv",
+  "compatibilty_data": "2025-08-05",
+  "assets": {
+    "directory": "./dist"
+  }
+}
